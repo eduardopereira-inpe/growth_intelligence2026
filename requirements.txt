@@ -1,0 +1,6 @@
+langchain
+ollama
+langchain-ollama
+pandasai[connectors]
+pandasai-litellm
+streamlit
